@@ -9,7 +9,7 @@
 
 ## 시연 영상
 ---![이미지 프로세싱1](https://github.com/user-attachments/assets/145fb4bc-0a32-4e0e-bfb5-f0b8753c849c)
-![이미지 프로세싱2](https://github.com/user-attachments/assets/25ef4eea-921d-4a46-891a-8d6f8f29837d)
+---![이미지 프로세싱2](https://github.com/user-attachments/assets/25ef4eea-921d-4a46-891a-8d6f8f29837d)
 
 
 ## 프로젝트 설명
