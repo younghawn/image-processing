@@ -1,7 +1,0 @@
-C:\Users\yohw6\Desktop\image-processing\image-processing\image-processing\obj\Debug\net10.0-windows\image-processing.csproj.AssemblyReference.cache
-C:\Users\yohw6\Desktop\image-processing\image-processing\image-processing\obj\Debug\net10.0-windows\image_processing.Form1.resources
-C:\Users\yohw6\Desktop\image-processing\image-processing\image-processing\obj\Debug\net10.0-windows\image-processing.csproj.GenerateResource.cache
-C:\Users\yohw6\Desktop\image-processing\image-processing\image-processing\obj\Debug\net10.0-windows\image-processing.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\yohw6\Desktop\image-processing\image-processing\image-processing\obj\Debug\net10.0-windows\image-processing.AssemblyInfoInputs.cache
-C:\Users\yohw6\Desktop\image-processing\image-processing\image-processing\obj\Debug\net10.0-windows\image-processing.AssemblyInfo.cs
-C:\Users\yohw6\Desktop\image-processing\image-processing\image-processing\obj\Debug\net10.0-windows\image-processing.csproj.CoreCompileInputs.cache
